@@ -1,0 +1,6 @@
+bin/*.bin
+bin/*.cfg
+/export
+__pycache__
+*.pyc
+*.cfg
