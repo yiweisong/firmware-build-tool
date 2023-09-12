@@ -1,5 +1,8 @@
 # A firmware build tool
 
+## prepare
+Move the binary files to bin folder. Then prepare a configuration file.
+
 ## usage
 ```python
 python3 main.py
