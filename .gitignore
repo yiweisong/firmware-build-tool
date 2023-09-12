@@ -4,3 +4,4 @@ bin/*.cfg
 __pycache__
 *.pyc
 *.cfg
+*.bin
